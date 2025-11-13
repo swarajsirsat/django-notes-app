@@ -1,0 +1,7 @@
+data/
+mysql/
+*/__pycache__/
+*.pyc
+*.log
+*.pid
+.env
